@@ -1,0 +1,5 @@
+/* Clear default index.css to avoid conflict */
+body {
+  margin: 0;
+  padding: 0;
+}
